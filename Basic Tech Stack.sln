@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Tech Stack", "Basic Tech Stack\Basic Tech Stack.csproj", "{B720A89F-7582-4677-AC72-0BB8283EA014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B720A89F-7582-4677-AC72-0BB8283EA014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B720A89F-7582-4677-AC72-0BB8283EA014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B720A89F-7582-4677-AC72-0BB8283EA014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B720A89F-7582-4677-AC72-0BB8283EA014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFCF5C1C-5F3F-41E1-834F-A44A7F35EFE3}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ivikash.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Basic\u0020Tech\u0020Stack\\Basic\u0020Tech\u0020Stack.csproj
+		SccProjectName1 = Basic\u0020Tech\u0020Stack
+		SccLocalPath1 = Basic\u0020Tech\u0020Stack
+	EndGlobalSection
+EndGlobal

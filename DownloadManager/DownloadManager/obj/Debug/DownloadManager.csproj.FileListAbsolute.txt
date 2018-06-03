@@ -1,0 +1,10 @@
+D:\Basic Tech Stack\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe.config
+D:\Basic Tech Stack\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe
+D:\Basic Tech Stack\DownloadManager\DownloadManager\bin\Debug\DownloadManager.pdb
+D:\Basic Tech Stack\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csprojResolveAssemblyReference.cache
+D:\Basic Tech Stack\DownloadManager\DownloadManager\obj\Debug\DownloadManager.Properties.Resources.resources
+D:\Basic Tech Stack\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.GenerateResource.Cache
+D:\Basic Tech Stack\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.CoreCompileInputs.cache
+D:\Basic Tech Stack\DownloadManager\DownloadManager\obj\Debug\DownloadManager.exe
+D:\Basic Tech Stack\DownloadManager\DownloadManager\obj\Debug\DownloadManager.pdb
+D:\Basic Tech Stack\DownloadManager\DownloadManager\obj\Debug\DownloadManager.Form1.resources
